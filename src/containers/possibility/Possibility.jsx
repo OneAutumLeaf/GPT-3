@@ -10,7 +10,7 @@ const Possibility = () => (
     <div className="gpt3__possibility-content">
       <h4>Request Early Access to Get Started</h4>
       <h1 className="gradient__text">The possibilities are <br /> beyond your imagination</h1>
-      <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
+      <p>OpenAI research tend to focus on reinforcement learning. OpenAI is viewed as an important competitor to DeepMind.Just name the area and you can see the practical example of Open AI whether it is GYM, RoboSumo, Debare Game, Dactyl, News application, etc.</p>
       <h4>Request Early Access to Get Started</h4>
     </div>
   </div>
